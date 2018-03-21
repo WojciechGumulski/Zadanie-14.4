@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
+body {
+	font-family: 'Kalam', cursive;
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	margin-top: 50px;
+}
+
+img {
+	height:150px;
+	width: 120px;
+}
